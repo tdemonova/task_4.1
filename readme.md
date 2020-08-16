@@ -6,7 +6,7 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-### Contents:
+### Table of Contents:
 1. 
 2. [git add](./add.md)
 
